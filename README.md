@@ -21,6 +21,7 @@ This is a reusable home for product and project reference material. It separates
 | [inbox/](inbox/README.md) | New requests, triage, and incorporation outcomes | Stops an unreviewed suggestion from becoming a requirement by accident |
 | [design/](design/README.md) | Interface evidence, proposals, shared patterns, approved contracts | Separates a visual option from an approved implementation input |
 | [plans/](plans/README.md) | Feature handoffs and review records | Gives delivery teams a bounded, traceable scope |
+| [agents/](agents/README.md) | Restart prompts for documentation roles | Restores role context without duplicating governing rules |
 
 ## Typical flow
 
@@ -31,5 +32,5 @@ source or incoming change -> triage -> decision -> canonical docs + traceability
                                          -> review and implementation record
 ```
 
-Read [AGENTS.md](AGENTS.md) before asking an agent to edit this repository. Every directory has a README describing what belongs there. Templates are examples to copy and adapt; they are not approved project content.
+Read [AGENTS.md](AGENTS.md) before asking an agent to edit this repository. For a fresh Product Steward session, use the [role prompt](agents/product-steward.md). Every directory has a README describing what belongs there. Templates are examples to copy and adapt; they are not approved project content.
 

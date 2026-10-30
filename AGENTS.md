@@ -8,6 +8,7 @@ This documentation area holds project reference material. It describes intended 
 2. Read the relevant roadmap epic and follow its links to requirement IDs, source files, accepted decisions, and open questions.
 3. Read the nearest `AGENTS.md` before editing a directory. Its local rules add to this file.
 4. For delivery planning, begin with the specific approved handoff in `plans/approved/`. Read only the linked context needed for the task.
+5. For Product Steward work, read `agents/product-steward.md` as role orientation. This file remains the governing instruction.
 
 ## Authority and uncertainty
 
